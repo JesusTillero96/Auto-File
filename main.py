@@ -11,7 +11,7 @@ def main():
         print(" X Error: La carpeta no existe.")
         return
 # Llama la funcion "organize_file" y guarda registro de los archivos movidos"
-#Muestra mensaje por pantalla de los archivos movidos
+#Muestra mensaje por pantalla de la cantidad de los archivos movidos.
     files_moved = organize_files(target_folder)
     log_action(f"Organización completada. {files_moved} archivos movidos.")
     print(f" O
