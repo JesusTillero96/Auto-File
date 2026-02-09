@@ -1,0 +1,9 @@
+{
+  "Imágenes": [".jpg", ".jpeg", ".png", ".gif"],
+  "Documentos": [".pdf", ".docx", ".txt"],
+  "Hojas de cálculo": [".xls", ".xlsx", ".csv"],
+  "Comprimidos": [".zip", ".rar", ".7z"],
+  "Videos": [".mp4", ".mkv", ".mov"],
+  "Otros": [],
+  "Codigo": [".py", ".js", ".html", ".css"]
+}
